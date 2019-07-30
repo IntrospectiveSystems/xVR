@@ -1,0 +1,855 @@
+CMouse::Event: button:2 act:-2 x:562 y:320
+CTechne::Mouse botton:2 action:-2 xpos:562 ypos:320
+CMouse::Event: button:2 act:-2 x:599 y:310
+CTechne::Mouse botton:2 action:-2 xpos:599 ypos:310
+CMouse::Event: button:2 act:-2 x:592 y:323
+CTechne::Mouse botton:2 action:-2 xpos:592 ypos:323
+CMouse::Event: button:2 act:-2 x:581 y:343
+CTechne::Mouse botton:2 action:-2 xpos:581 ypos:343
+CMouse::Event: button:2 act:-2 x:578 y:348
+CTechne::Mouse botton:2 action:-2 xpos:578 ypos:348
+CMouse::Event: button:2 act:-2 x:597 y:385
+CTechne::Mouse botton:2 action:-2 xpos:597 ypos:385
+CMouse::Event: button:2 act:-2 x:585 y:385
+CTechne::Mouse botton:2 action:-2 xpos:585 ypos:385
+CMouse::Event: button:2 act:-2 x:571 y:385
+CTechne::Mouse botton:2 action:-2 xpos:571 ypos:385
+CMouse::Event: button:2 act:-2 x:562 y:387
+CTechne::Mouse botton:2 action:-2 xpos:562 ypos:387
+CMouse::Event: button:2 act:-2 x:592 y:54
+CTechne::Mouse botton:2 action:-2 xpos:592 ypos:54
+CMouse::Event: button:2 act:-2 x:547 y:91
+CTechne::Mouse botton:2 action:-2 xpos:547 ypos:91
+CMouse::Event: button:2 act:-2 x:503 y:126
+CTechne::Mouse botton:2 action:-2 xpos:503 ypos:126
+CMouse::Event: button:2 act:-2 x:468 y:149
+CTechne::Mouse botton:2 action:-2 xpos:468 ypos:149
+CMouse::Event: button:2 act:-2 x:449 y:159
+CTechne::Mouse botton:2 action:-2 xpos:449 ypos:159
+CMouse::Event: button:2 act:-2 x:427 y:168
+CTechne::Mouse botton:2 action:-2 xpos:427 ypos:168
+CMouse::Event: button:2 act:-2 x:413 y:169
+CTechne::Mouse botton:2 action:-2 xpos:413 ypos:169
+CMouse::Event: button:2 act:-2 x:369 y:183
+CTechne::Mouse botton:2 action:-2 xpos:369 ypos:183
+CMouse::Event: button:2 act:-2 x:311 y:210
+CTechne::Mouse botton:2 action:-2 xpos:311 ypos:210
+CMouse::Event: button:2 act:-2 x:408 y:10
+CTechne::Mouse botton:2 action:-2 xpos:408 ypos:10
+CMouse::Event: button:2 act:-2 x:376 y:31
+CTechne::Mouse botton:2 action:-2 xpos:376 ypos:31
+CMouse::Event: button:2 act:-2 x:317 y:66
+CTechne::Mouse botton:2 action:-2 xpos:317 ypos:66
+CMouse::Event: button:2 act:-2 x:287 y:83
+CTechne::Mouse botton:2 action:-2 xpos:287 ypos:83
+CMouse::Event: button:2 act:-2 x:280 y:87
+CTechne::Mouse botton:2 action:-2 xpos:280 ypos:87
+CMouse::Event: button:2 act:-2 x:264 y:97
+CTechne::Mouse botton:2 action:-2 xpos:264 ypos:97
+CMouse::Event: button:2 act:-2 x:255 y:102
+CTechne::Mouse botton:2 action:-2 xpos:255 ypos:102
+CMouse::Event: button:2 act:-2 x:247 y:109
+CTechne::Mouse botton:2 action:-2 xpos:247 ypos:109
+CMouse::Event: button:2 act:-2 x:226 y:123
+CTechne::Mouse botton:2 action:-2 xpos:226 ypos:123
+CMouse::Event: button:2 act:-2 x:212 y:134
+CTechne::Mouse botton:2 action:-2 xpos:212 ypos:134
+CMouse::Event: button:2 act:-2 x:193 y:150
+CTechne::Mouse botton:2 action:-2 xpos:193 ypos:150
+CMouse::Event: button:2 act:-2 x:185 y:163
+CTechne::Mouse botton:2 action:-2 xpos:185 ypos:163
+CMouse::Event: button:2 act:-2 x:133 y:205
+CTechne::Mouse botton:2 action:-2 xpos:133 ypos:205
+CMouse::Event: button:2 act:-2 x:590 y:478
+CTechne::Mouse botton:2 action:-2 xpos:590 ypos:478
+CMouse::Event: button:2 act:-2 x:580 y:344
+CTechne::Mouse botton:2 action:-2 xpos:580 ypos:344
+CMouse::Event: button:2 act:-2 x:474 y:90
+CTechne::Mouse botton:2 action:-2 xpos:474 ypos:90
+CMouse::Event: button:2 act:-2 x:474 y:90
+CTechne::Mouse botton:2 action:-2 xpos:474 ypos:90
+CMouse::Event: button:2 act:-2 x:469 y:94
+CTechne::Mouse botton:2 action:-2 xpos:469 ypos:94
+CMouse::Event: button:2 act:-2 x:455 y:104
+CTechne::Mouse botton:2 action:-2 xpos:455 ypos:104
+CMouse::Event: button:2 act:-2 x:403 y:143
+CTechne::Mouse botton:2 action:-2 xpos:403 ypos:143
+CMouse::Event: button:2 act:-2 x:369 y:173
+CTechne::Mouse botton:2 action:-2 xpos:369 ypos:173
+CMouse::Event: button:2 act:-2 x:239 y:30
+CTechne::Mouse botton:2 action:-2 xpos:239 ypos:30
+CMouse::Event: button:2 act:-2 x:236 y:64
+CTechne::Mouse botton:2 action:-2 xpos:236 ypos:64
+CMouse::Event: button:2 act:-2 x:243 y:116
+CTechne::Mouse botton:2 action:-2 xpos:243 ypos:116
+CMouse::Event: button:2 act:-2 x:268 y:182
+CTechne::Mouse botton:2 action:-2 xpos:268 ypos:182
+CMouse::Event: button:2 act:-2 x:276 y:207
+CTechne::Mouse botton:2 action:-2 xpos:276 ypos:207
+CMouse::Event: button:2 act:-2 x:599 y:4
+CTechne::Mouse botton:2 action:-2 xpos:599 ypos:4
+CMouse::Event: button:2 act:-2 x:595 y:11
+CTechne::Mouse botton:2 action:-2 xpos:595 ypos:11
+CMouse::Event: button:2 act:-2 x:588 y:21
+CTechne::Mouse botton:2 action:-2 xpos:588 ypos:21
+CMouse::Event: button:2 act:-2 x:572 y:40
+CTechne::Mouse botton:2 action:-2 xpos:572 ypos:40
+CMouse::Event: button:2 act:-2 x:544 y:62
+CTechne::Mouse botton:2 action:-2 xpos:544 ypos:62
+CMouse::Event: button:2 act:-2 x:519 y:93
+CTechne::Mouse botton:2 action:-2 xpos:519 ypos:93
+CMouse::Event: button:2 act:-2 x:502 y:121
+CTechne::Mouse botton:2 action:-2 xpos:502 ypos:121
+CMouse::Event: button:2 act:-2 x:490 y:140
+CTechne::Mouse botton:2 action:-2 xpos:490 ypos:140
+CMouse::Event: button:2 act:-2 x:464 y:192
+CTechne::Mouse botton:2 action:-2 xpos:464 ypos:192
+CMouse::Event: button:2 act:-2 x:185 y:177
+CTechne::Mouse botton:2 action:-2 xpos:185 ypos:177
+CMouse::Event: button:2 act:-2 x:187 y:111
+CTechne::Mouse botton:2 action:-2 xpos:187 ypos:111
+CX3D::KeyboardEvent iact:2 key:1001
+    0/0
+    0/0 Executing keybrd:1232448
+CKeyboard::SpecialUp(1001,...)
+CTechne::Keyboard(1001,0,1)
+CTechne::Open entered
+ ** FileIO::SetDirectory sDir<Z:/KoaeData/Models/Raw/geo-metricks/Humans1/girls/daisy> sMsk<>
+OpenFile entered(Z:\KoaeData\Models\Raw\geo-metricks\Humans1\girls\daisy)
+    Before GetOpenFileName
+ ##### Path is <Z:\KoaeData\Models\Raw\geo-metricks\Humans1\girls\daisy\daisy.3ds>
+ ##### File is <daisy.3ds>
+    After GetOpenFileName
+CTechne::Open Path<Z:\KoaeData\Models\Raw\geo-metricks\Humans1\girls\daisy\daisy.3ds> File<daisy.3ds>
+K3D destructure entered, Name=*
+CK3D Destructor <*>
+CObject destructor <daisy>
+CObject destructor <hip>
+CMotion destructor
+CMotion destructor pau
+CObject destructor <lThigh>
+CMotion destructor
+CMotion destructor pau
+CObject destructor <lShin>
+CMotion destructor
+CMotion destructor pau
+CObject destructor <lFoot>
+CMotion destructor
+CMotion destructor pau
+CObject destructor <lToes>
+Deleting part <dstoesL>
+CObject destructor pau <lToes>
+Deleting part <dsheelL>
+Deleting part <dsfootL>
+CObject destructor pau <lFoot>
+Deleting part <dsleglwL>
+Deleting part <dslglwtL>
+CObject destructor pau <lShin>
+Deleting part <dslegupL>
+CObject destructor pau <lThigh>
+CObject destructor <rThigh>
+CMotion destructor
+CMotion destructor pau
+CObject destructor <rShin>
+CMotion destructor
+CMotion destructor pau
+CObject destructor <rFoot>
+CMotion destructor
+CMotion destructor pau
+CObject destructor <rToes>
+Deleting part <dstoesR>
+CObject destructor pau <rToes>
+Deleting part <dsheelR>
+Deleting part <dsfootR>
+CObject destructor pau <rFoot>
+Deleting part <dsleglwR>
+Deleting part <dslglwtR>
+CObject destructor pau <rShin>
+Deleting part <dslegupR>
+CObject destructor pau <rThigh>
+CObject destructor <abdomen>
+CMotion destructor
+CMotion destructor pau
+CObject destructor <chest>
+CMotion destructor
+CMotion destructor pau
+CObject destructor <neck>
+CMotion destructor
+CMotion destructor pau
+CObject destructor <head>
+CMotion destructor
+CMotion destructor pau
+Deleting part <dshair>
+Deleting part <dsface>
+Deleting part <dslips>
+Deleting part <dsnostrl>
+Deleting part <dseyewht>
+Deleting part <dseyelin>
+Deleting part <dseyeblk>
+Deleting part <dseyebrw>
+Deleting part <dseyshdw>
+Deleting part <dsbdgrn>
+Deleting part <dsbdred>
+Deleting part <dsbdblue>
+CObject destructor pau <head>
+Deleting part <dsneck>
+CObject destructor pau <neck>
+CObject destructor <lShldr>
+CMotion destructor
+CMotion destructor pau
+CObject destructor <lForeArm>
+CMotion destructor
+CMotion destructor pau
+CObject destructor <lHand>
+CMotion destructor
+CMotion destructor pau
+Deleting part <dshandL>
+CObject destructor pau <lHand>
+Deleting part <dsarmlwL>
+Deleting part <dsbrclet>
+CObject destructor pau <lForeArm>
+Deleting part <dsarmupL>
+CObject destructor pau <lShldr>
+CObject destructor <rShldr>
+CMotion destructor
+CMotion destructor pau
+CObject destructor <rForeArm>
+CMotion destructor
+CMotion destructor pau
+CObject destructor <rHand>
+CMotion destructor
+CMotion destructor pau
+Deleting part <dshandR>
+CObject destructor pau <rHand>
+Deleting part <dsarmlwR>
+CObject destructor pau <rForeArm>
+Deleting part <dsarmupR>
+CObject destructor pau <rShldr>
+Deleting part <dschest>
+Deleting part <dschtskn>
+Deleting part <dsnecklc>
+Deleting part <dstummy>
+Deleting part <dstchain>
+CObject destructor pau <chest>
+CObject destructor pau <abdomen>
+Deleting part <dships>
+Deleting part <dsbuckle>
+CObject destructor pau <hip>
+CObject destructor pau <daisy>
+CK3D Destructor Pau
+CNexus::CreateEntity(K3D)
+CK3D::Init()
+piImport:32062880
+Before load
+CK3D::Load(Z:\KoaeData\Models\Raw\geo-metricks\Humans1\girls\daisy\daisy.3ds)
+CK3D::Load type<3ds> sFile<daisy>
+CNexus::CreateEntity(Cvt3DS)
+C3DS::Load(Z:\KoaeData\Models\Raw\geo-metricks\Humans1\girls\daisy\daisy.3ds)
+ ## Object 0
+ ## Object 1
+ ## Object 2
+ ## Object 3
+ ## Object 4
+ ## Object 5
+ ## Object 6
+ ## Object 7
+ ## Object 8
+ ## Object 9
+ ## Object 10
+ ## Object 11
+ ## Object 12
+ ## Object 13
+ ## Object 14
+ ## Object 15
+ ## Object 16
+ ## Object 17
+3DS::Start nMat:39 nObj:18
+-------------------------------------------------
+Object:dships iParam:16384 iParent:0 iHier:-1
+      X  40.11   0.00   0.00
+      Y   0.00  40.11   0.00
+      Z   0.00   0.00  40.11
+    Org  -0.01   0.09  45.00
+    Max   5.58   5.44  45.32
+    Min  -5.58  -1.47  35.89
+    Scl  40.11  40.11  40.11
+    Pos  -0.01   0.09  45.00
+    Pvt   0.00   1.99  45.12
+    0:dships linked to primordial root
+nIndx:498 nVert:85 iIndx:2952df8 fVert:29535d0 fNorm:2a88e60 fText:0
+nIndx:192 nVert:32 iIndx:2a0c250 fVert:2952df8 fNorm:2a88e60 fText:0
+-------------------------------------------------
+Object:dslegupL iParam:16384 iParent:0 iHier:0
+      X  40.11   0.00   0.00
+      Y   0.00  40.11   0.00
+      Z   0.00   0.00  40.11
+    Org   2.83   0.03  37.13
+    Max   5.53   5.06  38.53
+    Min   0.14  -1.20  21.41
+    Scl   1.00   1.00   1.00
+    Pos   2.84  -0.06  -7.87
+    Pvt   2.84   1.93  37.25
+    1:dslegupL linked to 0:dships
+nIndx:264 nVert:40 iIndx:2a0ca28 fVert:2952df8 fNorm:2a88e60 fText:0
+-------------------------------------------------
+Object:dsleglwL iParam:16384 iParent:0 iHier:1
+      X  40.11   0.00   0.00
+      Y   0.00  40.11   0.00
+      Z   0.00   0.00  40.11
+    Org   2.44   0.50  22.65
+    Max   4.76   5.36  24.10
+    Min   0.14  -0.56   5.75
+    Scl   1.00   1.00   1.00
+    Pos  -0.39   0.47 -14.47
+    Pvt   2.45   2.40  22.78
+    2:dsleglwL linked to 1:dslegupL
+nIndx:120 nVert:24 iIndx:2a0d200 fVert:2952df8 fNorm:2a88e60 fText:0
+nIndx:162 nVert:33 iIndx:2a0d9d8 fVert:2952df8 fNorm:2a88e60 fText:0
+-------------------------------------------------
+Object:dsheelL iParam:16384 iParent:0 iHier:2
+      X  40.11   0.00   0.00
+      Y   0.00  40.11   0.00
+      Z   0.00   0.00  40.11
+    Org   2.32   0.37   6.09
+    Max   3.62   4.00   6.85
+    Min   1.05  -1.86   0.01
+    Scl   1.00   1.00   1.00
+    Pos  -0.12  -0.13 -16.56
+    Pvt   2.33   2.27   6.22
+    3:dsheelL linked to 2:dsleglwL
+nIndx:162 nVert:40 iIndx:2a0e1b0 fVert:2952df8 fNorm:2a88e60 fText:0
+nIndx:174 nVert:44 iIndx:2a0e988 fVert:2952df8 fNorm:2a88e60 fText:0
+-------------------------------------------------
+Object:dstoesL iParam:16384 iParent:0 iHier:3
+      X  40.11   0.00   0.00
+      Y   0.00  40.11   0.00
+      Z   0.00   0.00  40.11
+    Org   2.36  -3.04   2.11
+    Max   3.66  -0.39   3.36
+    Min   1.08  -5.42   0.00
+    Scl   1.00   1.00   1.00
+    Pos   0.04  -3.40  -3.98
+    Pvt   2.37  -1.14   2.23
+    4:dstoesL linked to 3:dsheelL
+nIndx:180 nVert:32 iIndx:2a0f160 fVert:2952df8 fNorm:2a88e60 fText:0
+-------------------------------------------------
+Object:dslegupR iParam:16384 iParent:0 iHier:0
+      X  40.11   0.00   0.00
+      Y   0.00  40.11   0.00
+      Z   0.00   0.00  40.11
+    Org  -2.84   0.03  37.13
+    Max  -0.14   5.06  38.53
+    Min  -5.53  -1.20  21.41
+    Scl   1.00   1.00   1.00
+    Pos  -2.84  -0.06  -7.87
+    Pvt  -2.83   1.93  37.25
+    5:dslegupR linked to 0:dships
+nIndx:264 nVert:40 iIndx:2952df8 fVert:29535d0 fNorm:2a88e60 fText:0
+-------------------------------------------------
+Object:dsleglwR iParam:16384 iParent:0 iHier:5
+      X  40.11   0.00   0.00
+      Y   0.00  40.11   0.00
+      Z   0.00   0.00  40.11
+    Org  -2.57   0.50  22.65
+    Max  -0.12   5.36  24.10
+    Min  -4.74  -0.56   5.75
+    Scl   1.00   1.00   1.00
+    Pos   0.27   0.47 -14.47
+    Pvt  -2.56   2.40  22.78
+    6:dsleglwR linked to 5:dslegupR
+nIndx:120 nVert:24 iIndx:29535d0 fVert:2953da8 fNorm:2a88e60 fText:0
+nIndx:162 nVert:33 iIndx:2a89638 fVert:29535d0 fNorm:2a89e10 fText:0
+-------------------------------------------------
+Object:dsheelR iParam:16384 iParent:0 iHier:6
+      X  40.11   0.00   0.00
+      Y   0.00  40.11   0.00
+      Z   0.00   0.00  40.11
+    Org  -2.30   0.30   6.13
+    Max  -1.01   4.00   6.85
+    Min  -3.58  -1.86   0.01
+    Scl   1.00   1.00   1.00
+    Pos   0.27  -0.20 -16.53
+    Pvt  -2.29   2.20   6.25
+    7:dsheelR linked to 6:dsleglwR
+nIndx:162 nVert:40 iIndx:2953da8 fVert:2954580 fNorm:2a89638 fText:0
+nIndx:174 nVert:44 iIndx:2a89e10 fVert:2a8a5e8 fNorm:2953da8 fText:0
+-------------------------------------------------
+Object:dstoesR iParam:16384 iParent:0 iHier:7
+      X  40.11   0.00   0.00
+      Y   0.00  40.11   0.00
+      Z   0.00   0.00  40.11
+    Org  -2.35  -3.09   2.33
+    Max  -1.05  -0.39   3.36
+    Min  -3.63  -5.42   0.00
+    Scl   1.00   1.00   1.00
+    Pos  -0.05  -3.39  -3.80
+    Pvt  -2.34  -1.19   2.45
+    8:dstoesR linked to 7:dsheelR
+nIndx:180 nVert:32 iIndx:2954580 fVert:2a89e10 fNorm:2954d58 fText:0
+-------------------------------------------------
+Object:dschest iParam:16384 iParent:0 iHier:0
+      X  40.11   0.00   0.00
+      Y   0.00  40.11   0.00
+      Z   0.00   0.00  40.11
+    Org  -0.01  -0.29  44.99
+    Max   4.93   4.50  57.52
+    Min  -4.92  -2.39  43.73
+    Scl   1.00   1.00   1.00
+    Pos  -0.00  -0.38  -0.00
+    Pvt   0.00   1.61  45.12
+    9:dschest linked to 0:dships
+nIndx:714 nVert:134 iIndx:2954d58 fVert:2955530 fNorm:2a89e10 fText:0
+nIndx:102 nVert:26 iIndx:2a8a5e8 fVert:2a8adc0 fNorm:2954d58 fText:0
+nIndx:432 nVert:84 iIndx:2955530 fVert:2a8a5e8 fNorm:2955d08 fText:0
+nIndx:264 nVert:60 iIndx:2955d08 fVert:2a8a5e8 fNorm:29564e0 fText:0
+nIndx:60 nVert:20 iIndx:2a8adc0 fVert:2a8b598 fNorm:2955d08 fText:0
+-------------------------------------------------
+Object:dsneck iParam:16384 iParent:0 iHier:9
+      X  40.11   0.00   0.00
+      Y   0.00  40.11   0.00
+      Z   0.00   0.00  40.11
+    Org  -0.02   0.33  56.62
+    Max   1.64   3.70  60.12
+    Min  -1.66   0.77  55.92
+    Scl   1.00   1.00   1.00
+    Pos  -0.02   0.63  11.63
+    Pvt  -0.01   2.23  56.74
+    10:dsneck linked to 9:dschest
+nIndx:174 nVert:36 iIndx:29564e0 fVert:2a8adc0 fNorm:2956cb8 fText:0
+-------------------------------------------------
+Object:dshair iParam:16384 iParent:0 iHier:10
+      X  40.11   0.00   0.00
+      Y   0.00  40.11   0.00
+      Z   0.00   0.00  40.11
+    Org   0.01   0.10  59.42
+    Max   4.87   5.64  65.80
+    Min  -4.83  -1.64  53.28
+    Scl   1.00   1.00   1.00
+    Pos   0.03  -0.23   2.80
+    Pvt   0.02   2.00  59.54
+    11:dshair linked to 10:dsneck
+nIndx:312 nVert:62 iIndx:2956cb8 fVert:2957490 fNorm:2a8adc0 fText:0
+nIndx:654 nVert:132 iIndx:2a8b598 fVert:2a8bd70 fNorm:2956cb8 fText:0
+nIndx:36 nVert:11 iIndx:2a8bd70 fVert:2a8c548 fNorm:2956cb8 fText:0
+nIndx:12 nVert:8 iIndx:2957490 fVert:2a8bd70 fNorm:2957c68 fText:0
+nIndx:192 nVert:48 iIndx:2957c68 fVert:2a8bd70 fNorm:2958440 fText:0
+nIndx:78 nVert:24 iIndx:2958440 fVert:2a8bd70 fNorm:2958c18 fText:0
+nIndx:48 nVert:18 iIndx:2a8c548 fVert:2a8cd20 fNorm:2958440 fText:0
+nIndx:18 nVert:10 iIndx:2958c18 fVert:2a8c548 fNorm:29593f0 fText:0
+nIndx:60 nVert:20 iIndx:29593f0 fVert:2a8c548 fNorm:2959bc8 fText:0
+nIndx:60 nVert:12 iIndx:2959bc8 fVert:2a8c548 fNorm:295a3a0 fText:0
+nIndx:60 nVert:12 iIndx:295a3a0 fVert:2a8c548 fNorm:295ab78 fText:0
+nIndx:60 nVert:12 iIndx:2a8cd20 fVert:2a8d4f8 fNorm:295a3a0 fText:0
+-------------------------------------------------
+Object:dsarmupL iParam:16384 iParent:0 iHier:9
+      X  40.11   0.00   0.00
+      Y   0.00  40.11   0.00
+      Z   0.00   0.00  40.11
+    Org   5.16   0.47  55.59
+    Max   7.08   3.61  56.48
+    Min   4.30   1.14  45.38
+    Scl   1.00   1.00   1.00
+    Pos   5.17   0.77  10.59
+    Pvt   5.17   2.37  55.71
+    12:dsarmupL linked to 9:dschest
+nIndx:240 nVert:42 iIndx:2a8d4f8 fVert:2a8dcd0 fNorm:295a3a0 fText:0
+-------------------------------------------------
+Object:dsarmlwL iParam:16384 iParent:0 iHier:12
+      X  40.11   0.00   0.00
+      Y   0.00  40.11   0.00
+      Z   0.00   0.00  40.11
+    Org   6.11   0.42  46.07
+    Max   7.87   3.32  46.79
+    Min   5.33   1.44  38.17
+    Scl   1.00   1.00   1.00
+    Pos   0.95  -0.05  -9.52
+    Pvt   6.12   2.32  46.19
+    13:dsarmlwL linked to 12:dsarmupL
+nIndx:168 nVert:30 iIndx:295ab78 fVert:295b350 fNorm:2a8d4f8 fText:0
+nIndx:84 nVert:16 iIndx:2a8dcd0 fVert:295ab78 fNorm:2a8e4a8 fText:0
+-------------------------------------------------
+Object:dshandL iParam:16384 iParent:0 iHier:13
+      X  40.11   0.00   0.00
+      Y   0.00  40.11   0.00
+      Z   0.00   0.00  40.11
+    Org   6.79   0.17  38.59
+    Max   7.65   3.37  38.99
+    Min   5.96   0.77  31.27
+    Scl   1.00   1.00   1.00
+    Pos   0.69  -0.25  -7.47
+    Pvt   6.81   2.07  38.72
+    14:dshandL linked to 13:dsarmlwL
+nIndx:180 nVert:32 iIndx:295b350 fVert:295bb28 fNorm:2a8dcd0 fText:0
+-------------------------------------------------
+Object:dsarmupR iParam:16384 iParent:0 iHier:9
+      X  40.11   0.00   0.00
+      Y   0.00  40.11   0.00
+      Z   0.00   0.00  40.11
+    Org  -5.23   0.47  55.44
+    Max  -4.30   3.61  56.47
+    Min  -6.93   1.14  45.36
+    Scl   1.00   1.00   1.00
+    Pos  -5.22   0.77  10.45
+    Pvt  -5.22   2.37  55.56
+    15:dsarmupR linked to 9:dschest
+nIndx:240 nVert:42 iIndx:295bb28 fVert:2a99858 fNorm:2a8dcd0 fText:0
+-------------------------------------------------
+Object:dsarmlwR iParam:16384 iParent:0 iHier:15
+      X  40.11   0.00   0.00
+      Y   0.00  40.11   0.00
+      Z   0.00   0.00  40.11
+    Org  -6.24   0.42  45.92
+    Max  -5.19   3.21  46.76
+    Min  -7.26   1.44  38.17
+    Scl   1.00   1.00   1.00
+    Pos  -1.01  -0.05  -9.52
+    Pvt  -6.23   2.32  46.04
+    16:dsarmlwR linked to 15:dsarmupR
+nIndx:168 nVert:30 iIndx:295c300 fVert:2a99858 fNorm:2a8dcd0 fText:0
+-------------------------------------------------
+Object:dshandR iParam:16384 iParent:0 iHier:16
+      X  40.11   0.00   0.00
+      Y   0.00  40.11   0.00
+      Z   0.00   0.00  40.11
+    Org  -6.67   0.17  38.20
+    Max  -5.82   3.37  38.97
+    Min  -7.51   0.77  31.24
+    Scl   1.00   1.00   1.00
+    Pos  -0.44  -0.25  -7.72
+    Pvt  -6.66   2.07  38.32
+    17:dshandR linked to 16:dsarmlwR
+nIndx:180 nVert:32 iIndx:295cad8 fVert:2a99858 fNorm:2a8dcd0 fText:0
+Cvt3DS destructure entered, Name=*
+    Succeeded
+CRig::Rig(Z:\KoaeData\Models\Raw\geo-metricks\Humans1\girls\daisy\daisy.rig)
+<<<<<# Daisy bones>>>>>
+<<<<<Object daisy Linked to ROOT>>>>>
+<<<<<Object dships Linked to daisy>>>>>
+<<<<<Aka hip>>>>>
+<<<<<# RotY -20.0>>>>>
+<<<<<Object dslegupL Linked to dships>>>>>
+<<<<<Aka lThigh>>>>>
+<<<<<Object dsleglwL Linked to dslegupL>>>>>
+<<<<<Aka lShin>>>>>
+<<<<<RotY -5.0>>>>>
+<<<<<Object dsheelL Linked to dsleglwL>>>>>
+<<<<<Aka lFoot>>>>>
+<<<<<RotY -10.0>>>>>
+<<<<<Object dstoesL Linked to dsheelL>>>>>
+<<<<<Aka lToes>>>>>
+<<<<<Object dslegupR Linked to dships>>>>>
+<<<<<Aka rThigh>>>>>
+<<<<<Object dsleglwR Linked to dslegupR>>>>>
+<<<<<Aka rShin>>>>>
+<<<<<RotY 5.0>>>>>
+<<<<<Object dsheelR Linked to dsleglwR>>>>>
+<<<<<Aka rFoot>>>>>
+<<<<<RotY 20.0>>>>>
+<<<<<Object dstoesR Linked to dsheelR>>>>>
+<<<<<Aka rToes>>>>>
+<<<<<Object dschest Linked to dships>>>>>
+<<<<<Aka chest>>>>>
+<<<<<Insert abdomen>>>>>
+<<<<<Object dsneck Linked to dschest>>>>>
+<<<<<Aka neck>>>>>
+<<<<<Object dshair Linked to dsneck>>>>>
+<<<<<Aka head>>>>>
+<<<<<Object dsarmupL Linked to dschest>>>>>
+<<<<<# Insert lCollar>>>>>
+<<<<<Aka lShldr>>>>>
+<<<<<RotX 90.0>>>>>
+<<<<<Object dsarmlwL Linked to dsarmupL>>>>>
+<<<<<Aka lForeArm>>>>>
+<<<<<Object dshandL Linked to dsarmlwL>>>>>
+<<<<<Aka lHand>>>>>
+<<<<<Object dsarmupR Linked to dschest>>>>>
+<<<<<# Insert rCollar>>>>>
+<<<<<Aka rShldr>>>>>
+<<<<<RotY -90.0>>>>>
+<<<<<Object dsarmlwR Linked to dsarmupR>>>>>
+<<<<<Aka rForeArm>>>>>
+<<<<<Object dshandR Linked to dsarmlwR>>>>>
+<<<<<Aka rHand>>>>>
+<<<<<Bvh Z:/KoaeData/Models/K3D/TrueBones/Girl/NewWalk5/NewWalk5.k3d>>>>>
+CK3D::Load(Z:/KoaeData/Models/K3D/TrueBones/Girl/NewWalk5/NewWalk5.k3d)
+CK3D::Load type<k3d> sFile<NewWalk5>
+CK3D::Load(Z:/KoaeData/Models/K3D/TrueBones/Girl/NewWalk5/NewWalk5.k3d)
+    Succeeded
+CRig::Rig(Z:/KoaeData/Models/K3D/TrueBones/Girl/NewWalk5/NewWalk5.rig)
+Dump entered, pObj:38315576
+Dump entered, pObj:38330416
+Dump entered, pObj:38278744
+Dump entered, pObj:38323320
+Dump entered, pObj:38322128
+Dump entered, pObj:38322296
+Dump entered, pObj:0
+Dump entered, pObj:38322632
+Dump entered, pObj:38322816
+Dump entered, pObj:38322800
+Dump entered, pObj:0
+Dump entered, pObj:38323192
+Dump entered, pObj:38323600
+Dump entered, pObj:38323584
+Dump entered, pObj:33620779
+Dump entered, pObj:38324168
+Dump entered, pObj:38324360
+Dump entered, pObj:0
+Dump entered, pObj:38324552
+Dump entered, pObj:38330680
+Dump entered, pObj:0
+ ** CRig::Apply - No match for node neckDummy
+ ** CRig::Apply - No match for node lCollar
+ ** CRig::Apply - No match for node rCollar
+Dump entered, pObj:38319552
+Dump entered, pObj:32083376
+Dump entered, pObj:32106896
+Dump entered, pObj:32106880
+Dump entered, pObj:32074848
+Dump entered, pObj:38295944
+Dump entered, pObj:32066800
+Dump entered, pObj:32080736
+Dump entered, pObj:32099792
+Dump entered, pObj:38275456
+Dump entered, pObj:32086256
+Dump entered, pObj:32055520
+Dump entered, pObj:32069248
+Dump entered, pObj:32084184
+Dump entered, pObj:38296184
+Dump entered, pObj:32085472
+Dump entered, pObj:38307056
+Dump entered, pObj:38275416
+Dump entered, pObj:32080872
+Dump entered, pObj:0
+<<<<<# Bvh Z:/KoaeData/Models/K3D/TrueBones/MojoBones/WalkHips3/WalkHips3.k3d>>>>>
+Dump entered, pObj:38319552
+Dump entered, pObj:32083376
+Dump entered, pObj:32106896
+Dump entered, pObj:32106880
+Dump entered, pObj:32074848
+Dump entered, pObj:38295944
+Dump entered, pObj:32066800
+CMouse::Event: button:2 act:-2 x:511 y:162
+CTechne::Mouse botton:2 action:-2 xpos:511 ypos:162
+CMouse::Event: button:2 act:-2 x:497 y:172
+CTechne::Mouse botton:2 action:-2 xpos:497 ypos:172
+CMouse::Event: button:2 act:-2 x:365 y:166
+CTechne::Mouse botton:2 action:-2 xpos:365 ypos:166
+CMouse::Event: button:2 act:-2 x:365 y:112
+CTechne::Mouse botton:2 action:-2 xpos:365 ypos:112
+CMouse::Event: button:2 act:-2 x:366 y:30
+CTechne::Mouse botton:2 action:-2 xpos:366 ypos:30
+CMouse::Event: button:2 act:-2 x:367 y:11
+CTechne::Mouse botton:2 action:-2 xpos:367 ypos:11
+CMouse::Event: button:2 act:-2 x:517 y:20
+CTechne::Mouse botton:2 action:-2 xpos:517 ypos:20
+CMouse::Event: button:2 act:-2 x:536 y:52
+CTechne::Mouse botton:2 action:-2 xpos:536 ypos:52
+CMouse::Event: button:2 act:-2 x:556 y:95
+CTechne::Mouse botton:2 action:-2 xpos:556 ypos:95
+CMouse::Event: button:2 act:-2 x:570 y:125
+CTechne::Mouse botton:2 action:-2 xpos:570 ypos:125
+CMouse::Event: button:2 act:-2 x:584 y:149
+CTechne::Mouse botton:2 action:-2 xpos:584 ypos:149
+CMouse::Event: button:2 act:-2 x:588 y:157
+CTechne::Mouse botton:2 action:-2 xpos:588 ypos:157
+CMouse::Event: button:2 act:-2 x:594 y:167
+CTechne::Mouse botton:2 action:-2 xpos:594 ypos:167
+CMouse::Event: button:2 act:-2 x:591 y:257
+CTechne::Mouse botton:2 action:-2 xpos:591 ypos:257
+CMouse::Event: button:2 act:-2 x:584 y:257
+CTechne::Mouse botton:2 action:-2 xpos:584 ypos:257
+CMouse::Event: button:2 act:-2 x:576 y:258
+CTechne::Mouse botton:2 action:-2 xpos:576 ypos:258
+CMouse::Event: button:2 act:-2 x:570 y:258
+CTechne::Mouse botton:2 action:-2 xpos:570 ypos:258
+CMouse::Event: button:2 act:-2 x:563 y:258
+CTechne::Mouse botton:2 action:-2 xpos:563 ypos:258
+CMouse::Event: button:2 act:-2 x:571 y:50
+CTechne::Mouse botton:2 action:-2 xpos:571 ypos:50
+CMouse::Event: button:2 act:-2 x:509 y:121
+CTechne::Mouse botton:2 action:-2 xpos:509 ypos:121
+CMouse::Event: button:2 act:-2 x:454 y:6
+CTechne::Mouse botton:2 action:-2 xpos:454 ypos:6
+CMouse::Event: button:2 act:-2 x:450 y:55
+CTechne::Mouse botton:2 action:-2 xpos:450 ypos:55
+CMouse::Event: button:2 act:-2 x:422 y:138
+CTechne::Mouse botton:2 action:-2 xpos:422 ypos:138
+CMouse::Event: button:2 act:-2 x:406 y:169
+CTechne::Mouse botton:2 action:-2 xpos:406 ypos:169
+CMouse::Event: button:2 act:-2 x:597 y:358
+CTechne::Mouse botton:2 action:-2 xpos:597 ypos:358
+CMouse::Event: button:2 act:-2 x:559 y:375
+CTechne::Mouse botton:2 action:-2 xpos:559 ypos:375
+CMouse::Event: button:2 act:-2 x:592 y:518
+CTechne::Mouse botton:2 action:-2 xpos:592 ypos:518
+CMouse::Event: button:2 act:-2 x:588 y:530
+CTechne::Mouse botton:2 action:-2 xpos:588 ypos:530
+CMouse::Event: button:2 act:-2 x:572 y:552
+CTechne::Mouse botton:2 action:-2 xpos:572 ypos:552
+CMouse::Event: button:2 act:-2 x:468 y:8
+CTechne::Mouse botton:2 action:-2 xpos:468 ypos:8
+CMouse::Event: button:2 act:-2 x:458 y:15
+CTechne::Mouse botton:2 action:-2 xpos:458 ypos:15
+CMouse::Event: button:2 act:-2 x:442 y:37
+CTechne::Mouse botton:2 action:-2 xpos:442 ypos:37
+CMouse::Event: button:2 act:-2 x:435 y:60
+CTechne::Mouse botton:2 action:-2 xpos:435 ypos:60
+CMouse::Event: button:2 act:-2 x:435 y:73
+CTechne::Mouse botton:2 action:-2 xpos:435 ypos:73
+CMouse::Event: button:2 act:-2 x:435 y:101
+CTechne::Mouse botton:2 action:-2 xpos:435 ypos:101
+CMouse::Event: button:2 act:-2 x:437 y:144
+CTechne::Mouse botton:2 action:-2 xpos:437 ypos:144
+CMouse::Event: button:2 act:-2 x:443 y:195
+CTechne::Mouse botton:2 action:-2 xpos:443 ypos:195
+CMouse::Event: button:2 act:-2 x:436 y:210
+CTechne::Mouse botton:2 action:-2 xpos:436 ypos:210
+CMouse::Event: button:2 act:-2 x:570 y:250
+CTechne::Mouse botton:2 action:-2 xpos:570 ypos:250
+CMouse::Event: button:2 act:-2 x:576 y:250
+CTechne::Mouse botton:2 action:-2 xpos:576 ypos:250
+CMouse::Event: button:2 act:-2 x:579 y:250
+CTechne::Mouse botton:2 action:-2 xpos:579 ypos:250
+CMouse::Event: button:2 act:-2 x:579 y:252
+CTechne::Mouse botton:2 action:-2 xpos:579 ypos:252
+CMouse::Event: button:2 act:-2 x:579 y:254
+CTechne::Mouse botton:2 action:-2 xpos:579 ypos:254
+CMouse::Event: button:2 act:-2 x:581 y:258
+CTechne::Mouse botton:2 action:-2 xpos:581 ypos:258
+CMouse::Event: button:2 act:-2 x:581 y:260
+CTechne::Mouse botton:2 action:-2 xpos:581 ypos:260
+CMouse::Event: button:2 act:-2 x:579 y:261
+CTechne::Mouse botton:2 action:-2 xpos:579 ypos:261
+CMouse::Event: button:2 act:-2 x:576 y:262
+CTechne::Mouse botton:2 action:-2 xpos:576 ypos:262
+CMouse::Event: button:2 act:-2 x:575 y:263
+CTechne::Mouse botton:2 action:-2 xpos:575 ypos:263
+CMouse::Event: button:2 act:-2 x:572 y:264
+CTechne::Mouse botton:2 action:-2 xpos:572 ypos:264
+CMouse::Event: button:2 act:-2 x:571 y:264
+CTechne::Mouse botton:2 action:-2 xpos:571 ypos:264
+CMouse::Event: button:2 act:-2 x:569 y:264
+CTechne::Mouse botton:2 action:-2 xpos:569 ypos:264
+CMouse::Event: button:2 act:-2 x:568 y:264
+CTechne::Mouse botton:2 action:-2 xpos:568 ypos:264
+CMouse::Event: button:2 act:-2 x:564 y:264
+CTechne::Mouse botton:2 action:-2 xpos:564 ypos:264
+CMouse::Event: button:2 act:-2 x:560 y:262
+CTechne::Mouse botton:2 action:-2 xpos:560 ypos:262
+CMouse::Event: button:2 act:-2 x:559 y:262
+CTechne::Mouse botton:2 action:-2 xpos:559 ypos:262
+CMouse::Event: button:2 act:-2 x:582 y:506
+CTechne::Mouse botton:2 action:-2 xpos:582 ypos:506
+CMouse::Event: button:2 act:-2 x:560 y:198
+CTechne::Mouse botton:2 action:-2 xpos:560 ypos:198
+CMouse::Event: button:2 act:-2 x:537 y:197
+CTechne::Mouse botton:2 action:-2 xpos:537 ypos:197
+CMouse::Event: button:2 act:-2 x:482 y:196
+CTechne::Mouse botton:2 action:-2 xpos:482 ypos:196
+CMouse::Event: button:2 act:-2 x:428 y:196
+CTechne::Mouse botton:2 action:-2 xpos:428 ypos:196
+CMouse::Event: button:2 act:-2 x:395 y:196
+CTechne::Mouse botton:2 action:-2 xpos:395 ypos:196
+CMouse::Event: button:2 act:-2 x:381 y:198
+CTechne::Mouse botton:2 action:-2 xpos:381 ypos:198
+CMouse::Event: button:2 act:-2 x:367 y:200
+CTechne::Mouse botton:2 action:-2 xpos:367 ypos:200
+CMouse::Event: button:2 act:-2 x:366 y:201
+CTechne::Mouse botton:2 action:-2 xpos:366 ypos:201
+CMouse::Event: button:2 act:-2 x:365 y:202
+CTechne::Mouse botton:2 action:-2 xpos:365 ypos:202
+CMouse::Event: button:2 act:-2 x:365 y:205
+CTechne::Mouse botton:2 action:-2 xpos:365 ypos:205
+CMouse::Event: button:2 act:-2 x:458 y:153
+CTechne::Mouse botton:2 action:-2 xpos:458 ypos:153
+CMouse::Event: button:2 act:-2 x:439 y:156
+CTechne::Mouse botton:2 action:-2 xpos:439 ypos:156
+CMouse::Event: button:2 act:-2 x:434 y:157
+CTechne::Mouse botton:2 action:-2 xpos:434 ypos:157
+CMouse::Event: button:2 act:-2 x:409 y:169
+CTechne::Mouse botton:2 action:-2 xpos:409 ypos:169
+CMouse::Event: button:2 act:-2 x:401 y:174
+CTechne::Mouse botton:2 action:-2 xpos:401 ypos:174
+CMouse::Event: button:2 act:-2 x:388 y:191
+CTechne::Mouse botton:2 action:-2 xpos:388 ypos:191
+CMouse::Event: button:2 act:-2 x:374 y:198
+CTechne::Mouse botton:2 action:-2 xpos:374 ypos:198
+CMouse::Event: button:2 act:-2 x:7 y:1
+CTechne::Mouse botton:2 action:-2 xpos:7 ypos:1
+CMouse::Event: button:2 act:-2 x:10 y:16
+CTechne::Mouse botton:2 action:-2 xpos:10 ypos:16
+CMouse::Event: button:2 act:-2 x:32 y:70
+CTechne::Mouse botton:2 action:-2 xpos:32 ypos:70
+CMouse::Event: button:2 act:-2 x:45 y:120
+CTechne::Mouse botton:2 action:-2 xpos:45 ypos:120
+CMouse::Event: button:2 act:-2 x:45 y:139
+CTechne::Mouse botton:2 action:-2 xpos:45 ypos:139
+CMouse::Event: button:2 act:-2 x:39 y:161
+CTechne::Mouse botton:2 action:-2 xpos:39 ypos:161
+CMouse::Event: button:2 act:-2 x:37 y:167
+CTechne::Mouse botton:2 action:-2 xpos:37 ypos:167
+CMouse::Event: button:2 act:-2 x:37 y:169
+CTechne::Mouse botton:2 action:-2 xpos:37 ypos:169
+CMouse::Event: button:2 act:-2 x:37 y:171
+CTechne::Mouse botton:2 action:-2 xpos:37 ypos:171
+CMouse::Event: button:2 act:-2 x:37 y:194
+CTechne::Mouse botton:2 action:-2 xpos:37 ypos:194
+CMouse::Event: button:2 act:-2 x:38 y:205
+CTechne::Mouse botton:2 action:-2 xpos:38 ypos:205
+CMouse::Event: button:2 act:-2 x:40 y:209
+CTechne::Mouse botton:2 action:-2 xpos:40 ypos:209
+CMouse::Event: button:2 act:-2 x:585 y:72
+CTechne::Mouse botton:2 action:-2 xpos:585 ypos:72
+CMouse::Event: button:2 act:-2 x:547 y:97
+CTechne::Mouse botton:2 action:-2 xpos:547 ypos:97
+CMouse::Event: button:2 act:-2 x:486 y:141
+CTechne::Mouse botton:2 action:-2 xpos:486 ypos:141
+CMouse::Event: button:2 act:-2 x:440 y:171
+CTechne::Mouse botton:2 action:-2 xpos:440 ypos:171
+CMouse::Event: button:2 act:-2 x:429 y:177
+CTechne::Mouse botton:2 action:-2 xpos:429 ypos:177
+CMouse::Event: button:2 act:-2 x:407 y:186
+CTechne::Mouse botton:2 action:-2 xpos:407 ypos:186
+CMouse::Event: button:2 act:-2 x:378 y:199
+CTechne::Mouse botton:2 action:-2 xpos:378 ypos:199
+CMouse::Event: button:2 act:-2 x:407 y:188
+CTechne::Mouse botton:2 action:-2 xpos:407 ypos:188
+CMouse::Event: button:2 act:-2 x:407 y:187
+CTechne::Mouse botton:2 action:-2 xpos:407 ypos:187
+CMouse::Event: button:2 act:-2 x:404 y:191
+CTechne::Mouse botton:2 action:-2 xpos:404 ypos:191
+CMouse::Event: button:2 act:-2 x:400 y:200
+CTechne::Mouse botton:2 action:-2 xpos:400 ypos:200
+CMouse::Event: button:2 act:-2 x:397 y:212
+CTechne::Mouse botton:2 action:-2 xpos:397 ypos:212
+CMouse::Event: button:2 act:-2 x:494 y:14
+CTechne::Mouse botton:2 action:-2 xpos:494 ypos:14
+CMouse::Event: button:2 act:-2 x:493 y:30
+CTechne::Mouse botton:2 action:-2 xpos:493 ypos:30
+CMouse::Event: button:2 act:-2 x:489 y:46
+CTechne::Mouse botton:2 action:-2 xpos:489 ypos:46
+CMouse::Event: button:2 act:-2 x:480 y:62
+CTechne::Mouse botton:2 action:-2 xpos:480 ypos:62
+CMouse::Event: button:2 act:-2 x:460 y:101
+CTechne::Mouse botton:2 action:-2 xpos:460 ypos:101
+CMouse::Event: button:2 act:-2 x:452 y:119
+CTechne::Mouse botton:2 action:-2 xpos:452 ypos:119
+CMouse::Event: button:2 act:-2 x:415 y:169
+CTechne::Mouse botton:2 action:-2 xpos:415 ypos:169
+CMouse::Event: button:2 act:-2 x:375 y:193
+CTechne::Mouse botton:2 action:-2 xpos:375 ypos:193
+CMouse::Event: button:2 act:-2 x:343 y:213
+CTechne::Mouse botton:2 action:-2 xpos:343 ypos:213
+CMouse::Event: button:2 act:-2 x:587 y:381
+CTechne::Mouse botton:2 action:-2 xpos:587 ypos:381
+CMouse::Event: button:2 act:-2 x:560 y:397
+CTechne::Mouse botton:2 action:-2 xpos:560 ypos:397
+CMouse::Event: button:2 act:-2 x:577 y:579
+CTechne::Mouse botton:2 action:-2 xpos:577 ypos:579
+CMouse::Event: button:2 act:-2 x:595 y:322
+CTechne::Mouse botton:2 action:-2 xpos:595 ypos:322
+CMouse::Event: button:2 act:-2 x:596 y:556
+CTechne::Mouse botton:2 action:-2 xpos:596 ypos:556
+CMouse::Event: button:2 act:-2 x:579 y:588
+CTechne::Mouse botton:2 action:-2 xpos:579 ypos:588
+ERR:Ра

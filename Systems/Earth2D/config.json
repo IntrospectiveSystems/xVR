@@ -1,0 +1,38 @@
+{
+	"Sources": {
+		"xVR": "{xVR}"
+	},
+	"Modules": {
+		"Orca": {
+			"Module": "xVR.Orca.Daemon",
+			"Source": "xVR",
+			"Par": {
+				"AgentServer": "$AgentServer",
+				"SystemDir": "{cwd}",
+				"Deploy": {
+					"Name": "EVE",
+					"Agent": "xVR.EVE",
+					"SceneGraph":"{System}/scene.json"
+				},
+				"Services": [
+					"$Mesh"
+				]
+			}
+		},
+		"Mesh": {
+			"Module":"xVR.Orca.Mesh",
+			"Source":"xVR",
+			"Par": {
+			}
+		},
+		"AgentServer": {
+			"Module": "xVR.Orca.AgentServer",
+			"Source": "xVR",
+			"Par": {
+				"Agents": "{Agents}"
+			}
+		},
+		"Deferred":[
+		]
+	}
+}

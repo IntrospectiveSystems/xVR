@@ -1,0 +1,367 @@
+Object[daisy]
+    Object[hip]
+        Shift(-0.00,0.00,1.14)
+        Motion[0] OffX Step:0.03 nFun:40 Fun:0.00,-0.00,-0.00...
+        Motion[1] OffZ Step:0.03 nFun:40 Fun:-0.10,-0.10,-0.10...
+        Motion[2] OffY Step:0.03 nFun:40 Fun:0.00,-0.01,-0.02...
+        Motion[3] RotX Step:0.03 nFun:40 Fun:-0.79,-2.38,-3.68...
+        Motion[4] RotY Step:0.03 nFun:40 Fun:2.75,3.61,3.97...
+        Motion[5] RotZ Step:0.03 nFun:40 Fun:80.51,81.30,81.98...
+        Part:dships iText:-1
+            Ambient(0.0,0.1,0.2,1.0)
+            Diffuse(0.0,0.1,0.2,1.0)
+            Specular(0.2,0.2,0.2,1.0)
+            Vertices nIndex:498 nVert:85
+        Part:dsbuckle iText:-1
+            Ambient(0.4,0.4,0.4,1.0)
+            Diffuse(0.4,0.4,0.4,1.0)
+            Specular(0.2,0.2,0.2,1.0)
+            Vertices nIndex:192 nVert:32
+        Object[lThigh]
+            Shift(0.07,-0.00,-0.20)
+            Motion[0] RotX Step:0.03 nFun:40 Fun:16.37,9.67,3.33...
+            Motion[1] RotY Step:0.03 nFun:40 Fun:-5.55,-9.45,-12.61...
+            Motion[2] RotZ Step:0.03 nFun:40 Fun:18.50,20.35,21.67...
+            Part:dslegupL iText:-1
+                Ambient(0.0,0.1,0.2,1.0)
+                Diffuse(0.0,0.1,0.2,1.0)
+                Specular(0.2,0.2,0.2,1.0)
+                Vertices nIndex:264 nVert:40
+            Object[lShin]
+                Shift(-0.01,0.01,-0.37)
+                Rotate(-5.00:0.00,1.00,0.00)
+                Motion[0] RotX Step:0.03 nFun:40 Fun:47.22,57.03,64.50...
+                Motion[1] RotY Step:0.03 nFun:40 Fun:0.82,-1.32,-3.68...
+                Motion[2] RotZ Step:0.03 nFun:40 Fun:-2.21,-2.12,-1.88...
+                Part:dsleglwL iText:-1
+                    Ambient(0.8,0.5,0.3,1.0)
+                    Diffuse(0.8,0.5,0.3,1.0)
+                    Specular(0.2,0.2,0.2,1.0)
+                    Vertices nIndex:120 nVert:24
+                Part:dslglwtL iText:-1
+                    Ambient(0.0,0.1,0.2,1.0)
+                    Diffuse(0.0,0.1,0.2,1.0)
+                    Specular(0.2,0.2,0.2,1.0)
+                    Vertices nIndex:162 nVert:33
+                Object[lFoot]
+                    Shift(-0.00,-0.00,-0.42)
+                    Rotate(-10.00:0.00,1.00,0.00)
+                    Motion[0] RotX Step:0.03 nFun:40 Fun:1.17,5.31,7.22...
+                    Motion[1] RotZ Step:0.03 nFun:40 Fun:7.11,6.88,7.00...
+                    Motion[2] RotY Step:0.03 nFun:40 Fun:20.33,19.50,19.15...
+                    Part:dsheelL iText:-1
+                        Ambient(0.0,0.0,0.0,1.0)
+                        Diffuse(0.0,0.0,0.0,1.0)
+                        Specular(0.2,0.2,0.2,1.0)
+                        Vertices nIndex:162 nVert:40
+                    Part:dsfootL iText:-1
+                        Ambient(0.8,0.5,0.3,1.0)
+                        Diffuse(0.8,0.5,0.3,1.0)
+                        Specular(0.2,0.2,0.2,1.0)
+                        Vertices nIndex:174 nVert:44
+                    Object[lToes]
+                        Shift(0.00,-0.09,-0.10)
+                        Part:dstoesL iText:-1
+                            Ambient(0.0,0.0,0.0,1.0)
+                            Diffuse(0.0,0.0,0.0,1.0)
+                            Specular(0.2,0.2,0.2,1.0)
+                            Vertices nIndex:180 nVert:32
+        Object[rThigh]
+            Shift(-0.07,-0.00,-0.20)
+            Motion[0] RotX Step:0.03 nFun:40 Fun:-4.04,-1.68,1.12...
+            Motion[1] RotY Step:0.03 nFun:40 Fun:-2.18,-4.37,-6.37...
+            Motion[2] RotZ Step:0.03 nFun:40 Fun:1.88,2.48,2.97...
+            Part:dslegupR iText:-1
+                Ambient(0.0,0.1,0.2,1.0)
+                Diffuse(0.0,0.1,0.2,1.0)
+                Specular(0.2,0.2,0.2,1.0)
+                Vertices nIndex:264 nVert:40
+            Object[rShin]
+                Shift(0.01,0.01,-0.37)
+                Rotate(5.00:0.00,1.00,0.00)
+                Motion[0] RotX Step:0.03 nFun:40 Fun:12.68,11.01,8.88...
+                Motion[1] RotY Step:0.03 nFun:40 Fun:-2.24,-1.81,-1.26...
+                Motion[2] RotZ Step:0.03 nFun:40 Fun:0.69,0.43,0.18...
+                Part:dsleglwR iText:-1
+                    Ambient(0.8,0.5,0.3,1.0)
+                    Diffuse(0.8,0.5,0.3,1.0)
+                    Specular(0.2,0.2,0.2,1.0)
+                    Vertices nIndex:120 nVert:24
+                Part:dslglwtR iText:-1
+                    Ambient(0.0,0.1,0.2,1.0)
+                    Diffuse(0.0,0.1,0.2,1.0)
+                    Specular(0.2,0.2,0.2,1.0)
+                    Vertices nIndex:162 nVert:33
+                Object[rFoot]
+                    Shift(0.01,-0.01,-0.42)
+                    Rotate(20.00:0.00,1.00,0.00)
+                    Motion[0] RotX Step:0.03 nFun:40 Fun:-6.01,-7.14,-7.84...
+                    Motion[1] RotZ Step:0.03 nFun:40 Fun:-12.25,-12.63,-13.18...
+                    Motion[2] RotY Step:0.03 nFun:40 Fun:-28.57,-27.75,-27.11...
+                    Part:dsheelR iText:-1
+                        Ambient(0.0,0.0,0.0,1.0)
+                        Diffuse(0.0,0.0,0.0,1.0)
+                        Specular(0.2,0.2,0.2,1.0)
+                        Vertices nIndex:162 nVert:40
+                    Part:dsfootR iText:-1
+                        Ambient(0.8,0.5,0.3,1.0)
+                        Diffuse(0.8,0.5,0.3,1.0)
+                        Specular(0.2,0.2,0.2,1.0)
+                        Vertices nIndex:174 nVert:44
+                    Object[rToes]
+                        Shift(-0.00,-0.09,-0.10)
+                        Part:dstoesR iText:-1
+                            Ambient(0.0,0.0,0.0,1.0)
+                            Diffuse(0.0,0.0,0.0,1.0)
+                            Specular(0.2,0.2,0.2,1.0)
+                            Vertices nIndex:180 nVert:32
+        Object[abdomen]
+            Motion[0] RotX Step:0.03 nFun:40 Fun:10.37,10.37,10.37...
+            Motion[1] RotY Step:0.03 nFun:40 Fun:8.71,8.71,8.71...
+            Motion[2] RotZ Step:0.03 nFun:40 Fun:-6.35,-6.35,-6.35...
+            Object[chest]
+                Shift(-0.00,-0.01,-0.00)
+                Motion[0] RotX Step:0.03 nFun:40 Fun:-10.64,-10.87,-10.32...
+                Motion[1] RotY Step:0.03 nFun:40 Fun:-15.76,-17.46,-18.55...
+                Motion[2] RotZ Step:0.03 nFun:40 Fun:12.41,12.82,13.19...
+                Part:dschest iText:-1
+                    Ambient(0.0,0.3,0.6,1.0)
+                    Diffuse(0.0,0.3,0.6,1.0)
+                    Specular(0.2,0.2,0.2,1.0)
+                    Vertices nIndex:714 nVert:134
+                Part:dschtskn iText:-1
+                    Ambient(0.8,0.5,0.3,1.0)
+                    Diffuse(0.8,0.5,0.3,1.0)
+                    Specular(0.2,0.2,0.2,1.0)
+                    Vertices nIndex:102 nVert:26
+                Part:dsnecklc iText:-1
+                    Ambient(0.7,0.5,0.0,1.0)
+                    Diffuse(0.7,0.5,0.0,1.0)
+                    Specular(0.2,0.2,0.2,1.0)
+                    Vertices nIndex:432 nVert:84
+                Part:dstummy iText:-1
+                    Ambient(0.8,0.5,0.3,1.0)
+                    Diffuse(0.8,0.5,0.3,1.0)
+                    Specular(0.2,0.2,0.2,1.0)
+                    Vertices nIndex:264 nVert:60
+                Part:dstchain iText:-1
+                    Ambient(0.7,0.5,0.0,1.0)
+                    Diffuse(0.7,0.5,0.0,1.0)
+                    Specular(0.2,0.2,0.2,1.0)
+                    Vertices nIndex:60 nVert:20
+                Object[neck]
+                    Shift(-0.00,0.02,0.30)
+                    Motion[0] RotX Step:0.03 nFun:40 Fun:8.12,7.51,6.64...
+                    Motion[1] RotY Step:0.03 nFun:40 Fun:-9.09,-9.18,-8.82...
+                    Motion[2] RotZ Step:0.03 nFun:40 Fun:0.63,0.65,0.62...
+                    Part:dsneck iText:-1
+                        Ambient(0.8,0.5,0.3,1.0)
+                        Diffuse(0.8,0.5,0.3,1.0)
+                        Specular(0.2,0.2,0.2,1.0)
+                        Vertices nIndex:174 nVert:36
+                    Object[head]
+                        Shift(0.00,-0.01,0.07)
+                        Motion[0] RotX Step:0.03 nFun:40 Fun:-6.48,-6.31,-6.05...
+                        Motion[1] RotY Step:0.03 nFun:40 Fun:3.68,3.61,3.38...
+                        Motion[2] RotZ Step:0.03 nFun:40 Fun:-15.85,-16.69,-17.06...
+                        Part:dshair iText:-1
+                            Ambient(0.8,0.7,0.4,1.0)
+                            Diffuse(0.8,0.7,0.4,1.0)
+                            Specular(0.2,0.2,0.2,1.0)
+                            Vertices nIndex:312 nVert:62
+                        Part:dsface iText:-1
+                            Ambient(0.8,0.5,0.3,1.0)
+                            Diffuse(0.8,0.5,0.3,1.0)
+                            Specular(0.2,0.2,0.2,1.0)
+                            Vertices nIndex:654 nVert:132
+                        Part:dslips iText:-1
+                            Ambient(0.6,0.4,0.4,1.0)
+                            Diffuse(0.6,0.4,0.4,1.0)
+                            Specular(0.2,0.2,0.2,1.0)
+                            Vertices nIndex:36 nVert:11
+                        Part:dsnostrl iText:-1
+                            Ambient(0.4,0.2,0.1,1.0)
+                            Diffuse(0.4,0.2,0.1,1.0)
+                            Specular(0.2,0.2,0.2,1.0)
+                            Vertices nIndex:12 nVert:8
+                        Part:dseyewht iText:-1
+                            Ambient(1.0,1.0,1.0,1.0)
+                            Diffuse(1.0,1.0,1.0,1.0)
+                            Specular(0.2,0.2,0.2,1.0)
+                            Vertices nIndex:192 nVert:48
+                        Part:dseyelin iText:-1
+                            Ambient(0.0,0.0,0.0,1.0)
+                            Diffuse(0.0,0.0,0.0,1.0)
+                            Specular(0.2,0.2,0.2,1.0)
+                            Vertices nIndex:78 nVert:24
+                        Part:dseyeblk iText:-1
+                            Ambient(0.0,0.0,0.0,1.0)
+                            Diffuse(0.0,0.0,0.0,1.0)
+                            Specular(0.2,0.2,0.2,1.0)
+                            Vertices nIndex:48 nVert:18
+                        Part:dseyebrw iText:-1
+                            Ambient(0.5,0.3,0.1,1.0)
+                            Diffuse(0.5,0.3,0.1,1.0)
+                            Specular(0.2,0.2,0.2,1.0)
+                            Vertices nIndex:18 nVert:10
+                        Part:dseyshdw iText:-1
+                            Ambient(0.8,0.5,0.5,1.0)
+                            Diffuse(0.8,0.5,0.5,1.0)
+                            Specular(0.2,0.2,0.2,1.0)
+                            Vertices nIndex:60 nVert:20
+                        Part:dsbdgrn iText:-1
+                            Ambient(0.0,0.6,0.0,1.0)
+                            Diffuse(0.0,0.6,0.0,1.0)
+                            Specular(0.2,0.2,0.2,1.0)
+                            Vertices nIndex:60 nVert:12
+                        Part:dsbdred iText:-1
+                            Ambient(0.7,0.0,0.0,1.0)
+                            Diffuse(0.7,0.0,0.0,1.0)
+                            Specular(0.2,0.2,0.2,1.0)
+                            Vertices nIndex:60 nVert:12
+                        Part:dsbdblue iText:-1
+                            Ambient(0.0,0.2,0.6,1.0)
+                            Diffuse(0.0,0.2,0.6,1.0)
+                            Specular(0.2,0.2,0.2,1.0)
+                            Vertices nIndex:60 nVert:12
+                Object[lShldr]
+                    Shift(0.13,0.02,0.27)
+                    Rotate(90.00:1.00,0.00,0.00)
+                    Motion[0] RotY Step:0.03 nFun:40 Fun:76.18,75.43,75.09...
+                    Motion[1] RotZ Step:0.03 nFun:40 Fun:18.89,18.17,17.09...
+                    Motion[2] RotX Step:0.03 nFun:40 Fun:-9.10,-9.07,-9.66...
+                    Part:dsarmupL iText:-1
+                        Ambient(0.8,0.5,0.3,1.0)
+                        Diffuse(0.8,0.5,0.3,1.0)
+                        Specular(0.2,0.2,0.2,1.0)
+                        Vertices nIndex:240 nVert:42
+                    Object[lForeArm]
+                        Shift(0.02,-0.00,-0.24)
+                        Motion[0] RotZ Step:0.03 nFun:40 Fun:-38.21,-38.23,-38.26...
+                        Motion[1] RotY Step:0.03 nFun:40 Fun:2.20,2.90,3.19...
+                        Motion[2] RotX Step:0.03 nFun:40 Fun:40.20,43.86,45.65...
+                        Part:dsarmlwL iText:-1
+                            Ambient(0.8,0.5,0.3,1.0)
+                            Diffuse(0.8,0.5,0.3,1.0)
+                            Specular(0.2,0.2,0.2,1.0)
+                            Vertices nIndex:168 nVert:30
+                        Part:dsbrclet iText:-1
+                            Ambient(0.0,0.0,0.5,1.0)
+                            Diffuse(0.0,0.0,0.5,1.0)
+                            Specular(0.2,0.2,0.2,1.0)
+                            Vertices nIndex:84 nVert:16
+                        Object[lHand]
+                            Shift(0.02,-0.01,-0.19)
+                            Motion[0] RotY Step:0.03 nFun:40 Fun:7.68,10.11,11.07...
+                            Motion[1] RotZ Step:0.03 nFun:40 Fun:11.16,11.69,11.27...
+                            Motion[2] RotX Step:0.03 nFun:40 Fun:47.32,46.49,46.25...
+                            Part:dshandL iText:-1
+                                Ambient(0.8,0.5,0.3,1.0)
+                                Diffuse(0.8,0.5,0.3,1.0)
+                                Specular(0.2,0.2,0.2,1.0)
+                                Vertices nIndex:180 nVert:32
+                Object[rShldr]
+                    Shift(-0.13,0.02,0.27)
+                    Rotate(-90.00:0.00,1.00,0.00)
+                    Motion[0] RotY Step:0.03 nFun:40 Fun:-65.49,-65.02,-64.48...
+                    Motion[1] RotZ Step:0.03 nFun:40 Fun:-3.38,-3.18,-2.46...
+                    Motion[2] RotX Step:0.03 nFun:40 Fun:60.52,60.15,60.45...
+                    Part:dsarmupR iText:-1
+                        Ambient(0.8,0.5,0.3,1.0)
+                        Diffuse(0.8,0.5,0.3,1.0)
+                        Specular(0.2,0.2,0.2,1.0)
+                        Vertices nIndex:240 nVert:42
+                    Object[rForeArm]
+                        Shift(-0.03,-0.00,-0.24)
+                        Motion[0] RotZ Step:0.03 nFun:40 Fun:9.02,9.68,10.33...
+                        Motion[1] RotY Step:0.03 nFun:40 Fun:8.89,9.13,10.02...
+                        Motion[2] RotX Step:0.03 nFun:40 Fun:-14.38,-15.72,-16.22...
+                        Part:dsarmlwR iText:-1
+                            Ambient(0.8,0.5,0.3,1.0)
+                            Diffuse(0.8,0.5,0.3,1.0)
+                            Specular(0.2,0.2,0.2,1.0)
+                            Vertices nIndex:168 nVert:30
+                        Object[rHand]
+                            Shift(-0.01,-0.01,-0.20)
+                            Motion[0] RotY Step:0.03 nFun:40 Fun:-22.68,-21.51,-20.50...
+                            Motion[1] RotZ Step:0.03 nFun:40 Fun:0.34,0.20,0.07...
+                            Motion[2] RotX Step:0.03 nFun:40 Fun:-9.98,-10.15,-10.31...
+                            Part:dshandR iText:-1
+                                Ambient(0.8,0.5,0.3,1.0)
+                                Diffuse(0.8,0.5,0.3,1.0)
+                                Specular(0.2,0.2,0.2,1.0)
+                                Vertices nIndex:180 nVert:32
+Object[daisy]
+    Object[hip]
+        Shift(-0.00,0.00,1.14)
+        Motion[0] OffX Step:0.03 nFun:40 Fun:0.00,-0.00,-0.00...
+        Motion[1] OffZ Step:0.03 nFun:40 Fun:-0.10,-0.10,-0.10...
+        Motion[2] OffY Step:0.03 nFun:40 Fun:0.00,-0.01,-0.02...
+        Motion[3] RotX Step:0.03 nFun:40 Fun:-0.79,-2.38,-3.68...
+        Motion[4] RotY Step:0.03 nFun:40 Fun:2.75,3.61,3.97...
+        Motion[5] RotZ Step:0.03 nFun:40 Fun:80.51,81.30,81.98...
+        Part:dships iText:-1
+            Ambient(0.0,0.1,0.2,1.0)
+            Diffuse(0.0,0.1,0.2,1.0)
+            Specular(0.2,0.2,0.2,1.0)
+            Vertices nIndex:498 nVert:85
+        Part:dsbuckle iText:-1
+            Ambient(0.4,0.4,0.4,1.0)
+            Diffuse(0.4,0.4,0.4,1.0)
+            Specular(0.2,0.2,0.2,1.0)
+            Vertices nIndex:192 nVert:32
+        Object[lThigh]
+            Shift(0.07,-0.00,-0.20)
+            Motion[0] RotX Step:0.03 nFun:40 Fun:16.37,9.67,3.33...
+            Motion[1] RotY Step:0.03 nFun:40 Fun:-5.55,-9.45,-12.61...
+            Motion[2] RotZ Step:0.03 nFun:40 Fun:18.50,20.35,21.67...
+            Part:dslegupL iText:-1
+                Ambient(0.0,0.1,0.2,1.0)
+                Diffuse(0.0,0.1,0.2,1.0)
+                Specular(0.2,0.2,0.2,1.0)
+                Vertices nIndex:264 nVert:40
+            Object[lShin]
+                Shift(-0.01,0.01,-0.37)
+                Rotate(-5.00:0.00,1.00,0.00)
+                Motion[0] RotX Step:0.03 nFun:40 Fun:47.22,57.03,64.50...
+                Motion[1] RotY Step:0.03 nFun:40 Fun:0.82,-1.32,-3.68...
+                Motion[2] RotZ Step:0.03 nFun:40 Fun:-2.21,-2.12,-1.88...
+                Part:dsleglwL iText:-1
+                    Ambient(0.8,0.5,0.3,1.0)
+                    Diffuse(0.8,0.5,0.3,1.0)
+                    Specular(0.2,0.2,0.2,1.0)
+                    Vertices nIndex:120 nVert:24
+                Part:dslglwtL iText:-1
+                    Ambient(0.0,0.1,0.2,1.0)
+                    Diffuse(0.0,0.1,0.2,1.0)
+                    Specular(0.2,0.2,0.2,1.0)
+                    Vertices nIndex:162 nVert:33
+                Object[lFoot]
+                    Shift(-0.00,-0.00,-0.42)
+                    Rotate(-10.00:0.00,1.00,0.00)
+                    Motion[0] RotX Step:0.03 nFun:40 Fun:1.17,5.31,7.22...
+                    Motion[1] RotZ Step:0.03 nFun:40 Fun:7.11,6.88,7.00...
+                    Motion[2] RotY Step:0.03 nFun:40 Fun:20.33,19.50,19.15...
+                    Part:dsheelL iText:-1
+                        Ambient(0.0,0.0,0.0,1.0)
+                        Diffuse(0.0,0.0,0.0,1.0)
+                        Specular(0.2,0.2,0.2,1.0)
+                        Vertices nIndex:162 nVert:40
+                    Part:dsfootL iText:-1
+                        Ambient(0.8,0.5,0.3,1.0)
+                        Diffuse(0.8,0.5,0.3,1.0)
+                        Specular(0.2,0.2,0.2,1.0)
+                        Vertices nIndex:174 nVert:44
+                    Object[lToes]
+                        Shift(0.00,-0.09,-0.10)
+                        Part:dstoesL iText:-1
+                            Ambient(0.0,0.0,0.0,1.0)
+                            Diffuse(0.0,0.0,0.0,1.0)
+                            Specular(0.2,0.2,0.2,1.0)
+                            Vertices nIndex:180 nVert:32
+        Object[rThigh]
+            Shift(-0.07,-0.00,-0.20)
+            Motion[0] RotX Step:0.03 nFun:40 Fun:-4.04,-1.68,1.12...
+            Motion[1] RotY Step:0.03 nFun:40 Fun:-2.18,-4.37,-6.37...
+            Motion[2] RotZ Step:0.03 nFun:40 Fun:1.88,2.48,2.97...
+            Part:dslegupR iText:-1

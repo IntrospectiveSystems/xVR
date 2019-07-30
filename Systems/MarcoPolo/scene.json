@@ -1,0 +1,43 @@
+[
+	{
+		"Name": "Board",
+		"Type": "Terrain",
+		"Model": "IS.Terrain.Layout",
+		"Children":[
+			{
+				"Name": "Grid",
+				"Type": "Fixed",
+				"Position": [0, 0, 0.1],
+				"Model": "IS.Terrain.Grid_200_10"
+			},
+			{
+				"Name": "Marco",
+				"Type": "Artifact",
+				"Title": "Marco",
+				"Model": "Squid.Chess.King",
+				"Deploy": {
+					"Agent": "xVR.Marco"
+				},
+				"Position": [-5, 0, 0],
+				"Scale": 5.0,
+				"Links": [
+					"Polo"
+				]
+			},
+			{
+				"Name": "Polo",
+				"Type": "Artifact",
+				"Title": "Polo",
+				"Model": "Squid.Chess.Queen",
+				"Deploy": {
+					"Agent": "xVR.Polo"
+				},
+				"Position": [5, 0, 0],
+				"Scale": 5.0,
+				"Links": [
+					"Marco"
+				]
+			}
+		]
+	}
+]

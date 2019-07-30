@@ -1,0 +1,48 @@
+[
+	{
+		"Name": "Board",
+		"Type": "Terrain",
+		"Model": "IS.Terrain.Layout",
+		"Children":[
+			{
+				"Name": "Grid",
+				"Type": "Fixed",
+				"Position": [0, 0, 0.1],
+				"Model": "IS.Terrain.Grid_200_10"
+			},
+			{
+				"Name": "NEIC",
+				"Type": "Artifact",
+				"Title": "NEIC",
+				"Model": "Squid.Chess.Queen",
+				"Position": [-10, 0, 0],
+				"Scale": 5.0,
+				"Links": [
+					"Sites"
+				]
+			},
+			{
+				"Name": "Sites",
+				"Type": "Artifact",
+				"Title": "Sites",
+				"Model": "Squid.Chess.Pawn",
+				"Position": [0, 0, 0],
+				"Scale": 5.0,
+				"Links": [
+					"Earth2D"
+				]
+			},
+			{
+				"Name": "Earth2D",
+				"Type": "Artifact",
+				"Title": "Earth2D",
+				"Deploy": {
+					"Agent": "xVR.Earth2D"
+				},
+				"Model": "Squid.LCD",
+				"Position": [10, 0, 0],
+				"Scale": 5.0
+			}
+		]
+	}
+]

@@ -1,0 +1,75 @@
+{
+	"Sources": {
+		"xSim": "{xSim}",
+		"xGraph": "{xGraph}"
+	},
+	"Modules": {
+		"Hub": {
+			"Module":"xGraph.Proxy",
+			"Source":"xGraph",
+			"Par": {
+				"Chan":"Hub",
+				"Role":"Client",
+				"Link":"$Unit"
+			}
+		},
+		"Unit":{
+			"Module":"xSim.Core.Unit",
+			"Source":"xSim",
+			"Par":{
+				"Hub":"$Hub"
+			}
+		},
+		"Controller": {
+			"Module": "xSim.Units.Eve",
+			"Source":"xSim",
+			"Par":{
+				"Hub":"$Hub",
+				"Unit":"$Unit",
+				"Server":"$View3DProxy"
+			}
+		},
+		"ControllerProxy": {
+			"Module":"xGraph.ServerProxy",
+			"Source":"xGraph",
+			"Par":{
+				"Link": "Controller",
+				"Server":"$Server"
+			}
+		},
+		"Server": {
+			"Module": "xGraph.WebViewer",
+			"Source":"xGraph",
+			"Par": {
+				"ApexList": {
+					"Controller":"$Controller"
+				},
+				"Port": 8080,
+				"HTML": "@file: Paint.html",
+				"Url": "Paint",
+				"Paint": "@system: browser.json"
+			}
+		},
+		"View3DProxy": {
+			"Module":"xGraph.ServerProxy",
+			"Source":"xGraph",
+			"Par":{
+				"Link": "View3D",
+				"Server":"$Server"
+			}
+		},
+		"X3D": {
+			"Module":"xSim.Core.X3D",
+			"Source":"xSim",
+			"Par":{
+				"Model":"Squid.PlasmaGenerator",
+				"Position":[-5, 5, 0],
+				"Scale":1.0,
+				"Hub":"$Hub",
+				"Unit":"$Unit"
+			}
+		},
+		"Deferred":[
+		]
+	}
+}

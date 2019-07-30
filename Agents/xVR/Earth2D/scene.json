@@ -1,0 +1,9 @@
+[
+	{
+		"Name":"Board",
+		"Type": "Terrain",
+		"Model": "IS.Terrain.Earth2D",
+		"Children":[
+		]
+	}
+]

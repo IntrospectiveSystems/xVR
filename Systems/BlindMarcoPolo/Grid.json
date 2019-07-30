@@ -1,0 +1,38 @@
+[
+	{
+		"Name": "Marco",
+		"Type": "Artifact",
+		"Title": "Marco",
+		"Model": "Squid.Chess.King",
+		"Deploy": {
+			"Agent": "xVR.Marco"
+		},
+		"Position": [
+			-5,
+			0,
+			0
+		],
+		"Scale": 5.0,
+		"Links": [
+			"Polo"
+		]
+	},
+	{
+		"Name": "Polo",
+		"Type": "Artifact",
+		"Title": "Polo",
+		"Model": "Squid.Chess.Queen",
+		"Deploy": {
+			"Agent": "xVR.Polo"
+		},
+		"Position": [
+			5,
+			0,
+			0
+		],
+		"Scale": 5.0,
+		"Links": [
+			"Marco"
+		]
+	}
+]

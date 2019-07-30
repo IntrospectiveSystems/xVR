@@ -1,0 +1,73 @@
+# Daisy bones
+
+Object daisy Linked to ROOT
+
+Object dships Linked to daisy
+Aka hip
+# RotY -10.0
+
+Object dslegupL Linked to dships
+Aka lThigh
+# RotY -5.0
+
+Object dsleglwL Linked to dslegupL
+Aka lShin
+# RotY -5.0
+
+Object dsheelL Linked to dsleglwL
+Aka lFoot
+RotY -10.0
+
+Object dstoesL Linked to dsheelL
+Aka lToes
+
+Object dslegupR Linked to dships
+Aka rThigh
+# RotY 10
+
+Object dsleglwR Linked to dslegupR
+Aka rShin
+# RotY 5.0
+
+Object dsheelR Linked to dsleglwR
+Aka rFoot
+RotY 20.0
+
+Object dstoesR Linked to dsheelR
+Aka rToes
+
+Object dschest Linked to dships
+Aka chest
+Insert abdomen
+
+Object dsneck Linked to dschest
+Aka neck
+
+Object dshair Linked to dsneck
+Aka head
+
+Object dsarmupL Linked to dschest
+# Insert lCollar
+Aka lShldr
+RotX 10.0
+RotY -80.0
+
+Object dsarmlwL Linked to dsarmupL
+Aka lForeArm
+
+Object dshandL Linked to dsarmlwL
+Aka lHand
+
+Object dsarmupR Linked to dschest
+# Insert rCollar
+Aka rShldr
+RotY 80.0
+
+Object dsarmlwR Linked to dsarmupR
+Aka rForeArm
+
+Object dshandR Linked to dsarmlwR
+Aka rHand
+
+# Bvh Z:/KoaeData/Models/K3D/TrueBones/Girl/NewWalk5/NewWalk5.k3d
+Bvh Z:/KoaeData/Models/K3D/TrueBones/Cold/IdleBreathing/IdleBreathing.k3d

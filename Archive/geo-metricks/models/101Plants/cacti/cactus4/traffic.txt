@@ -1,0 +1,19 @@
+CMouse::Event: button:2 act:-2 x:586 y:290
+CTechne::Mouse botton:2 action:-2 xpos:586 ypos:290
+CMouse::Event: button:2 act:-2 x:578 y:296
+CTechne::Mouse botton:2 action:-2 xpos:578 ypos:296
+CMouse::Event: button:2 act:-2 x:576 y:298
+CTechne::Mouse botton:2 action:-2 xpos:576 ypos:298
+CMouse::Event: button:2 act:-2 x:574 y:300
+CTechne::Mouse botton:2 action:-2 xpos:574 ypos:300
+CMouse::Event: button:2 act:-2 x:567 y:311
+CTechne::Mouse botton:2 action:-2 xpos:567 ypos:311
+CMouse::Event: button:2 act:-2 x:599 y:244
+CTechne::Mouse botton:2 action:-2 xpos:599 ypos:244
+CMouse::Event: button:2 act:-2 x:561 y:271
+CTechne::Mouse botton:2 action:-2 xpos:561 ypos:271
+CMouse::Event: button:2 act:-2 x:213 y:57
+CTechne::Mouse botton:2 action:-2 xpos:213 ypos:57
+CMouse::Event: button:2 act:-2 x:206 y:144
+CTechne::Mouse botton:2 action:-2 xpos:206 ypos:144
+ERR:H

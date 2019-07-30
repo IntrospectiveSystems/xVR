@@ -1,0 +1,8 @@
+{
+	"Apex": {
+		"$Setup": "Setup",
+		"$Start": "Start",
+		"Entity": "Layout.js",
+		"Grid": [200, 200, 10]
+	}
+}

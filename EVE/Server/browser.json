@@ -1,0 +1,77 @@
+{
+	"Sources": {
+		"xGraph": "{xGraph}",
+		"xSim":"{xSim}"
+	},
+	"Modules": {
+		"RootView": {
+			"Module": "xGraph.RootView",
+			"Source": "xGraph",
+			"Par": {
+				"Layout": "$View3D"
+			}
+		},
+		"View3D": {
+			"Module":"xSim.Core.EveView3D",
+			"Source": "xSim",
+			"Par": {
+				"Navigation":"xSim.Core.Mouse",
+				"Controller":"$ControllerProxy",
+				"Server":"$ServerProxy",
+				"Clear":"/#000000"
+			}
+		},
+		"ControllerProxy": {
+			"Module": "xGraph.WebProxy",
+			"Source": "xGraph",
+			"Par": {
+				"Link": "Controller"
+			}
+		},
+		"ServerProxy": {
+			"Module": "xGraph.WebProxy",
+			"Source": "xGraph",
+			"Par": {
+				"Link": "Server"
+			}
+		},
+		"Deferred": [
+			{
+				"Module": "xSim.Core.Mouse",
+				"Source": "xSim"
+			},
+			{
+				"Module": "xGraph.Popup",
+				"Source": "xGraph"
+			},
+			{
+				"Module": "xGraph.2DView",
+				"Source": "xGraph"
+			},
+			{
+				"Module": "xGraph.3DView",
+				"Source": "xGraph"
+			},
+			{
+				"Module": "xSim.Widgets.PopHTML",
+				"Source": "xSim"
+			},
+			{
+				"Module": "xSim.Widgets.Pop2D",
+				"Source": "xSim"
+			},
+			{
+				"Module": "xSim.Core.ModelX3D",
+				"Source": "xSim"
+			},
+			{
+				"Module": "xSim.Core.Board",
+				"Source": "xSim"
+			},
+			{
+				"Module": "xSim.Core.Geometry",
+				"Source": "xSim"
+			}
+		]
+	}
+}

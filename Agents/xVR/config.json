@@ -1,0 +1,28 @@
+{
+	"Sources": {
+		"xVR": "{xVR}"
+	},
+	"Modules": {
+		"Agent": {
+			"Module": "xVR.Orca.Agent",
+			"Source": "xVR",
+			"Par": {
+				"Name": "{Name}",
+				"Daemon": [
+					"{Host}",
+					"{Port}"
+				],
+				"Services": [
+					"$Mesh"
+				]
+			}
+		},
+		"Mesh": {
+			"Module": "xVR.Orca.Mesh",
+			"Source": "xVR",
+			"Par": {
+				"Name": "{Name}"
+			}
+		}
+	}
+}

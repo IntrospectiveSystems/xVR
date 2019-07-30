@@ -1,0 +1,26 @@
+[
+	{
+		"Name": "Board",
+		"Type": "Terrain",
+		"Model": "IS.Terrain.Layout",
+		"Children":[
+			{
+				"Name": "Grid",
+				"Type": "Fixed",
+				"Position": [0, 0, 0.1],
+				"Model": "IS.Terrain.Grid_200_10"
+			},
+			{
+				"Name": "Earth3D",
+				"Type": "Artifact",
+				"Title": "Earth3D",
+				"Deploy": {
+					"Agent": "xVR.Earth3D"
+				},
+				"Model": "Squid.LCD",
+				"Position": [10, 0, 0],
+				"Scale": 5.0
+			}
+		]
+	}
+]

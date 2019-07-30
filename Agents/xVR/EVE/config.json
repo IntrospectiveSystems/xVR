@@ -1,0 +1,59 @@
+{
+	"Sources": {
+		"xGraph": "{xGraph}",
+		"xVR": "{xVR}"
+	},
+	"Modules": {
+		"Controller": {
+			"Module": "xVR.EVE.Server",
+			"Source":"xVR",
+			"Par":{
+				"Agent": "$Agent",
+				"Services": [
+					"$Agent"
+				],
+				"Server":"$View3DProxy",
+				"ModelServer": "$ModelServer",
+				"SceneGraph": "scene.json",
+				"CWD":"{cwd}"
+			}
+		},
+		"ControllerLink": {
+			"Module":"xGraph.ServerProxy",
+			"Source":"xGraph",
+			"Par":{
+				"Link": "$Controller",
+				"Server":"$Server",
+				"Role": "Server",
+				"Chan": "Controller"
+			}
+		},
+		"Server": {
+			"Module": "xGraph.WebViewer",
+			"Source":"xGraph",
+			"Par": {
+				"Port": 8080,
+				"Url": "Paint",
+				"Paint": "@system: browser.json"
+			}
+		},
+		"View3DProxy": {
+			"Module":"xGraph.ServerProxy",
+			"Source":"xGraph",
+			"Par":{
+				"Chan": "View3D",
+				"Role": "Client",
+				"Server":"$Server"				
+			}
+		},
+		"ModelServer": {
+			"Module":"xVR.Model.Server",
+			"Source":"xVR",
+			"Par":{
+				"Archive":"{Models}"
+			}
+		},
+		"Deferred":[
+		]
+	}
+}

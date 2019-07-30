@@ -1,0 +1,2 @@
+CMouse::Event: button:2 act:-2 x:579 y:596
+CTechne::Mouse botton:2 action:-2 xpos:579 ypos:596

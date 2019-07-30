@@ -1,0 +1,20 @@
+{
+	"Sources": {
+		"xVR": "{xVR}"
+	},
+	"Modules": {
+		"Marco": {
+			"Module": "xVR.Orca.MarcoPolo",
+			"Source":"xVR",
+			"Par":{
+				"Agent": "$Agent",
+				"Services": [
+					"$Agent"
+				],
+				"Role": "Marco"
+			}
+		},
+		"Deferred":[
+		]
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"Sources": {
+		"xGraph": "{xGraph}",
+		"xVR": "{xVR}"
+	},
+	"Modules": {
+		"Controller": {
+			"Module": "xVR.Grid",
+			"Source": "xVR",
+			"Par": {
+				"Agent": "$Agent",
+				"Services": [
+					"$Agent"
+				],
+				"GridPlan": "Grid.json"
+			}
+		}
+	}
+}

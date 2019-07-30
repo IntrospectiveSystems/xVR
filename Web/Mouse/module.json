@@ -1,0 +1,42 @@
+{
+	"name": "xGraph.Mouse",
+	"doc": "README.md",
+	"version": "2.0.0",
+	"info": {
+		"author": "Introspective Systems, LLC."
+	},
+	"input": {
+		"required": [
+			{
+				"Cmd": "SetDomElement",
+				"required": {
+					"DomElement": "Object"
+				}
+			}
+		],
+		"opts": []
+	},
+	"output": {
+		"required": [],
+		"opts": [
+			{
+				"par": "Handler",
+				"Command": [
+					{
+						"Cmd": "DispatchEvent",
+						"required": {
+							"info": "Object",
+							"mouse": "Object"
+						}
+					}
+				]
+			}
+		]
+	},
+	"par": {
+		"required": {},
+		"opts": {
+			"Handler": "xGraphPid"
+		}
+	}
+}

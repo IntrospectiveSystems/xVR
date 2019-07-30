@@ -1,0 +1,43 @@
+------------------------------------------------NewWalk5
+newwalk5 Linked to ROOT
+
+hip Linked to newwalk5
+
+abdomen Linked to hip
+
+chest Linked to abdomen
+
+neckDummy Linked to chest
+
+neck Linked to neckDummy
+
+head Linked to neck
+
+lCollar Linked to chest
+
+lShldr Linked to lCollar
+
+lForeArm Linked to lShldr
+
+lHand Linked to lForeArm
+
+rCollar Linked to chest
+
+rShldr Linked to rCollar
+
+rForeArm Linked to rShldr
+
+rHand Linked to rForeArm
+
+lThigh Linked to hip
+
+lShin Linked to lThigh
+
+lFoot Linked to lShin
+
+rThigh Linked to hip
+
+rShin Linked to rThigh
+
+rFoot Linked to rShin
+

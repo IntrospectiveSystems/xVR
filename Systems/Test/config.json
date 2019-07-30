@@ -1,0 +1,14 @@
+{
+	"Sources": {
+		"xVR": "{xVR}",
+		"xGraph": "{xGraph}"
+	},
+	"Modules": {
+		"Test": {
+			"Module":"xVR.Sim.Test",
+			"Source":"xVR"
+		},
+		"Deferred":[
+		]
+	}
+}

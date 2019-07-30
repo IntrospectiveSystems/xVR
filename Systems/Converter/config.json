@@ -1,0 +1,17 @@
+{
+	"Sources": {
+		"xVR": "{xVR}",
+		"xGraph": "{xGraph}"
+	},
+	"Modules": {
+		"Model": {
+			"Module":"xVR.Model.Converter",
+			"Source":"xVR",
+			"Par":{
+				"Models":"{Models}"
+			}
+		},
+		"Deferred":[
+		]
+	}
+}

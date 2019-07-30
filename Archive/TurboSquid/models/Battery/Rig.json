@@ -1,0 +1,8 @@
+{
+	"Units": "Inch",
+	"Alias": {
+		"DURACELL.JPG":"duracell.png"
+	},
+	"FlipYZxxx":  true,
+	"Ground": true
+}

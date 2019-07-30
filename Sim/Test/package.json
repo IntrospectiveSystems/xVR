@@ -1,0 +1,7 @@
+{
+	"name" : "Test",
+	"version" : "0.0.3",
+	"dependencies" : {
+		"neataptic":"~1.4.7"
+	}
+}

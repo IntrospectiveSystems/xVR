@@ -1,0 +1,8 @@
+{
+	"Apex": {
+		"$Setup": "Setup",
+		"$Start": "Start",
+		"Entity": "Generate.js",
+		"Texture": "Jaxa-earth.jpg"
+	}
+}

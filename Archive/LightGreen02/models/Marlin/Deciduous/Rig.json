@@ -1,0 +1,33 @@
+{
+  "Name": "Marlin.Decid",
+  "Source":"marlinstudios.com",
+  "Marlin":true,
+  "FlipYZ": true,
+  "Textures": "Marlin/Deciduous/Textures",
+  "Alias": {
+	"Leaves001_darkgreen.jpg": "Leaves001_darkgreen.png",
+	"Leaves001_lightgreen.jpg": "Leaves001_lightgreen.png",
+	"Leaves001_orangegreen.jpg": "Leaves001_orangegreen.png",
+	"Leaves001_orangered.jpg": "Leaves001_orangered.png",
+	"Leaves001_yellow.jpg": "Leaves001_yellow.png",
+	"Leaves003_brightyellow.jpg": "Leaves003_brightyellow.png",
+	"Leaves003_darkgreen.jpg": "Leaves003_darkgreen.png",
+	"Leaves003_darkred.jpg": "Leaves003_darkred.png",
+	"Leaves003_red.jpg": "Leaves003_red.png",
+	"Leaves003_yellow.jpg": "Leaves003_yellow.png",
+	"Leaves004_green.jpg": "Leaves004_green.png",
+	"Leaves004_darkgreen.jpg": "Leaves004_darkgreen.png",
+	"Leaves004_lightgreen.jpg": "Leaves004_lightgreen.png",
+	"Leaves004_yellow.jpg": "Leaves004_yellow.png",
+	"Leaves004_yellowbrown.jpg": "Leaves004_yellowbrown.png",
+	"Leaves005_darkgreen.jpg": "Leaves005_darkgreen.png",
+	"Leaves005_red.jpg": "Leaves005_red.png",
+	"Leaves005_yellow.jpg": "Leaves005_yellow.png",
+	"Leaves005_yellowbrown.jpg": "Leaves005_yellowbrown.png",
+	"Leaves006_green.jpg": "Leaves006_green.png",
+	"Leaves02_darkgreen.jpg": "Leaves02_darkgreen.png",
+	"Leaves02_darkred.jpg": "Leaves02_darkred.png",
+	"Leaves02_lightgreen.jpg": "Leaves02_lightgreen.png",
+	"Leaves02_yellow.jpg": "Leaves02_yellow.png"
+  }
+}
